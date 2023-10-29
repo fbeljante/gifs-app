@@ -8,8 +8,6 @@ import { Gif } from '../../interfaces/gifs.interfaces';
 })
 export class HomePageComponent {
 
-  //pajeros: string[] = ["friki1","friki2", "friki3", "friki4"]
-
   constructor ( private gifsService: GifsService ) {}
 
   get gifs(): Gif[]{
