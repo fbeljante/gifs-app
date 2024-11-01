@@ -1,6 +1,6 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+This is a small app about generating gifs depending on the input the user provided. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
 
 ## Development server
 
